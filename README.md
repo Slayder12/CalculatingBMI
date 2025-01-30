@@ -35,4 +35,4 @@
 
 Результат:
 
-<img src="https://github.com/Slayder12/CalculatingBMI/blob/main/assets/1.gif" width="75%" alt="Описание GIF" />
+<img src="https://github.com/Slayder12/CalculatingBMI/blob/main/assets/1.gif" width="50%" alt="Описание GIF" />
