@@ -40,11 +40,11 @@ class MainActivity : ComponentActivity() {
 fun CalculationOfBMI(modifier: Modifier = Modifier) {
 
     val heightState = remember {
-        mutableIntStateOf(177)
+        mutableIntStateOf(0)
     }
 
     val weightState = remember {
-        mutableIntStateOf(75)
+        mutableIntStateOf(0)
     }
 
 

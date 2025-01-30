@@ -26,7 +26,7 @@ class Operation {
                 bmi.toDouble() in 1.0..16.0 -> result = "Выраженный дефицит массы тела"
                 bmi.toDouble() in 16.0..18.5 -> result = "Недостаточная масса тела"
                 bmi.toDouble() in 18.5..25.0 -> result = "Нормальная масса тела"
-                bmi.toDouble() in 25.5..30.0 -> result = "Избыточная масса тела(предожирение)"
+                bmi.toDouble() in 25.0..30.0 -> result = "Избыточная масса тела(предожирение)"
                 bmi.toDouble() in 30.0..35.0 -> result = "Ожирение 1-ой степени"
                 bmi.toDouble() in 35.0..40.0 -> result = "Ожирение 2-ой степени"
                 bmi.toDouble() in 40.0..500.0 -> result = "Ожирение 3-ой степени"
